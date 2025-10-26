@@ -1,4 +1,4 @@
-### I have done many errors feel free to correct & contribute in my html/css code 
+### Feel free to correct & contribute in my html/css code 
 
 ---
 
