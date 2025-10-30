@@ -1,8 +1,8 @@
-### Feel free to correct & contribute in my html/css code 
+### Feel free to correct & contribute in my html/css repo
 
 ---
 
-# 🎬 Yetflix — OTT Platform Landing Page
+# 🎬 Yetflix-OTT Platform Landing Page
 
 **Yetflix** is a responsive front-end project inspired by Netflix’s landing page.
 It showcases a modern OTT platform design built with **HTML5** and **CSS3**, featuring smooth layouts, dark mode aesthetics, and responsive elements for all devices.
